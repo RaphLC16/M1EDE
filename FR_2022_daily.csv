@@ -1,0 +1,366 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2022-01-01 00:00:00,France,France,FR,22.10,40.51,94.65,25.67,opendata.reseaux-energies.fr
+2022-01-02 00:00:00,France,France,FR,19.99,37.76,95.04,31.05,opendata.reseaux-energies.fr
+2022-01-03 00:00:00,France,France,FR,25.80,44.36,94.11,30.01,opendata.reseaux-energies.fr
+2022-01-04 00:00:00,France,France,FR,38.04,58.83,91.43,26.10,opendata.reseaux-energies.fr
+2022-01-05 00:00:00,France,France,FR,49.40,72.01,90.04,25.95,opendata.reseaux-energies.fr
+2022-01-06 00:00:00,France,France,FR,65.86,90.89,87.72,23.11,opendata.reseaux-energies.fr
+2022-01-07 00:00:00,France,France,FR,48.68,70.74,90.08,28.15,opendata.reseaux-energies.fr
+2022-01-08 00:00:00,France,France,FR,38.83,58.28,92.61,28.51,opendata.reseaux-energies.fr
+2022-01-09 00:00:00,France,France,FR,44.33,65.52,90.86,24.17,opendata.reseaux-energies.fr
+2022-01-10 00:00:00,France,France,FR,70.12,97.17,85.12,20.20,opendata.reseaux-energies.fr
+2022-01-11 00:00:00,France,France,FR,74.29,103.10,83.90,20.01,opendata.reseaux-energies.fr
+2022-01-12 00:00:00,France,France,FR,76.36,105.68,83.62,20.83,opendata.reseaux-energies.fr
+2022-01-13 00:00:00,France,France,FR,79.17,108.86,83.35,20.38,opendata.reseaux-energies.fr
+2022-01-14 00:00:00,France,France,FR,85.79,116.26,82.80,19.77,opendata.reseaux-energies.fr
+2022-01-15 00:00:00,France,France,FR,82.00,111.43,83.64,17.66,opendata.reseaux-energies.fr
+2022-01-16 00:00:00,France,France,FR,65.74,93.11,85.64,18.24,opendata.reseaux-energies.fr
+2022-01-17 00:00:00,France,France,FR,71.44,99.68,84.53,19.08,opendata.reseaux-energies.fr
+2022-01-18 00:00:00,France,France,FR,78.51,107.56,83.60,19.04,opendata.reseaux-energies.fr
+2022-01-19 00:00:00,France,France,FR,77.59,106.48,83.67,18.90,opendata.reseaux-energies.fr
+2022-01-20 00:00:00,France,France,FR,72.64,100.33,84.71,20.44,opendata.reseaux-energies.fr
+2022-01-21 00:00:00,France,France,FR,73.83,101.72,84.67,19.92,opendata.reseaux-energies.fr
+2022-01-22 00:00:00,France,France,FR,78.95,108.05,83.50,15.13,opendata.reseaux-energies.fr
+2022-01-23 00:00:00,France,France,FR,77.52,106.45,83.73,14.57,opendata.reseaux-energies.fr
+2022-01-24 00:00:00,France,France,FR,78.61,108.09,83.58,18.75,opendata.reseaux-energies.fr
+2022-01-25 00:00:00,France,France,FR,86.96,118.43,82.59,19.01,opendata.reseaux-energies.fr
+2022-01-26 00:00:00,France,France,FR,83.17,113.43,83.24,19.05,opendata.reseaux-energies.fr
+2022-01-27 00:00:00,France,France,FR,73.04,101.24,84.50,20.83,opendata.reseaux-energies.fr
+2022-01-28 00:00:00,France,France,FR,76.50,105.37,83.87,17.80,opendata.reseaux-energies.fr
+2022-01-29 00:00:00,France,France,FR,49.69,72.89,89.13,20.91,opendata.reseaux-energies.fr
+2022-01-30 00:00:00,France,France,FR,49.43,74.11,87.95,14.05,opendata.reseaux-energies.fr
+2022-01-31 00:00:00,France,France,FR,43.19,65.54,89.99,26.04,opendata.reseaux-energies.fr
+2022-02-01 00:00:00,France,France,FR,48.69,72.54,88.77,23.97,opendata.reseaux-energies.fr
+2022-02-02 00:00:00,France,France,FR,56.09,81.69,87.03,19.23,opendata.reseaux-energies.fr
+2022-02-03 00:00:00,France,France,FR,60.99,88.06,85.99,17.25,opendata.reseaux-energies.fr
+2022-02-04 00:00:00,France,France,FR,47.47,70.92,89.12,22.57,opendata.reseaux-energies.fr
+2022-02-05 00:00:00,France,France,FR,35.60,57.42,91.43,23.09,opendata.reseaux-energies.fr
+2022-02-06 00:00:00,France,France,FR,25.41,44.74,93.72,31.04,opendata.reseaux-energies.fr
+2022-02-07 00:00:00,France,France,FR,57.10,82.81,87.49,22.14,opendata.reseaux-energies.fr
+2022-02-08 00:00:00,France,France,FR,66.94,94.16,85.85,20.28,opendata.reseaux-energies.fr
+2022-02-09 00:00:00,France,France,FR,68.55,96.30,85.30,19.42,opendata.reseaux-energies.fr
+2022-02-10 00:00:00,France,France,FR,70.58,98.34,85.08,19.18,opendata.reseaux-energies.fr
+2022-02-11 00:00:00,France,France,FR,70.65,98.89,84.84,19.09,opendata.reseaux-energies.fr
+2022-02-12 00:00:00,France,France,FR,64.70,92.13,86.12,21.20,opendata.reseaux-energies.fr
+2022-02-13 00:00:00,France,France,FR,39.13,60.68,91.98,29.20,opendata.reseaux-energies.fr
+2022-02-14 00:00:00,France,France,FR,56.07,80.72,88.43,26.22,opendata.reseaux-energies.fr
+2022-02-15 00:00:00,France,France,FR,52.82,76.27,89.26,27.81,opendata.reseaux-energies.fr
+2022-02-16 00:00:00,France,France,FR,24.45,42.68,94.26,33.00,opendata.reseaux-energies.fr
+2022-02-17 00:00:00,France,France,FR,28.47,48.18,93.04,31.58,opendata.reseaux-energies.fr
+2022-02-18 00:00:00,France,France,FR,23.37,41.54,94.35,32.24,opendata.reseaux-energies.fr
+2022-02-19 00:00:00,France,France,FR,21.98,40.11,94.97,32.97,opendata.reseaux-energies.fr
+2022-02-20 00:00:00,France,France,FR,20.05,38.07,95.20,34.78,opendata.reseaux-energies.fr
+2022-02-21 00:00:00,France,France,FR,32.71,52.52,93.19,34.76,opendata.reseaux-energies.fr
+2022-02-22 00:00:00,France,France,FR,50.10,72.96,90.20,28.34,opendata.reseaux-energies.fr
+2022-02-23 00:00:00,France,France,FR,64.15,90.31,87.33,21.59,opendata.reseaux-energies.fr
+2022-02-24 00:00:00,France,France,FR,49.44,71.29,90.93,28.11,opendata.reseaux-energies.fr
+2022-02-25 00:00:00,France,France,FR,47.13,69.44,90.58,26.68,opendata.reseaux-energies.fr
+2022-02-26 00:00:00,France,France,FR,57.98,82.97,88.31,24.48,opendata.reseaux-energies.fr
+2022-02-27 00:00:00,France,France,FR,53.01,76.17,90.55,26.18,opendata.reseaux-energies.fr
+2022-02-28 00:00:00,France,France,FR,76.10,104.70,85.10,22.63,opendata.reseaux-energies.fr
+2022-03-01 00:00:00,France,France,FR,69.75,98.68,84.68,20.30,opendata.reseaux-energies.fr
+2022-03-02 00:00:00,France,France,FR,64.34,92.11,85.61,20.52,opendata.reseaux-energies.fr
+2022-03-03 00:00:00,France,France,FR,73.43,101.95,85.24,19.88,opendata.reseaux-energies.fr
+2022-03-04 00:00:00,France,France,FR,73.78,102.01,85.66,20.60,opendata.reseaux-energies.fr
+2022-03-05 00:00:00,France,France,FR,61.31,86.22,88.34,20.46,opendata.reseaux-energies.fr
+2022-03-06 00:00:00,France,France,FR,55.12,79.06,89.38,22.28,opendata.reseaux-energies.fr
+2022-03-07 00:00:00,France,France,FR,61.80,88.71,86.88,26.45,opendata.reseaux-energies.fr
+2022-03-08 00:00:00,France,France,FR,65.01,91.69,86.88,24.88,opendata.reseaux-energies.fr
+2022-03-09 00:00:00,France,France,FR,62.04,88.79,86.67,22.65,opendata.reseaux-energies.fr
+2022-03-10 00:00:00,France,France,FR,65.74,92.86,86.85,23.52,opendata.reseaux-energies.fr
+2022-03-11 00:00:00,France,France,FR,44.38,67.09,90.64,29.14,opendata.reseaux-energies.fr
+2022-03-12 00:00:00,France,France,FR,42.59,66.54,90.64,28.42,opendata.reseaux-energies.fr
+2022-03-13 00:00:00,France,France,FR,42.36,66.29,90.71,28.99,opendata.reseaux-energies.fr
+2022-03-14 00:00:00,France,France,FR,78.83,110.65,83.07,24.57,opendata.reseaux-energies.fr
+2022-03-15 00:00:00,France,France,FR,73.40,104.56,83.57,25.67,opendata.reseaux-energies.fr
+2022-03-16 00:00:00,France,France,FR,71.97,101.84,84.32,24.28,opendata.reseaux-energies.fr
+2022-03-17 00:00:00,France,France,FR,67.56,96.32,85.41,25.80,opendata.reseaux-energies.fr
+2022-03-18 00:00:00,France,France,FR,55.59,81.03,88.65,31.39,opendata.reseaux-energies.fr
+2022-03-19 00:00:00,France,France,FR,42.52,65.44,91.84,32.80,opendata.reseaux-energies.fr
+2022-03-20 00:00:00,France,France,FR,59.70,87.66,86.99,24.58,opendata.reseaux-energies.fr
+2022-03-21 00:00:00,France,France,FR,74.89,105.48,84.34,25.47,opendata.reseaux-energies.fr
+2022-03-22 00:00:00,France,France,FR,71.08,101.15,84.99,26.55,opendata.reseaux-energies.fr
+2022-03-23 00:00:00,France,France,FR,81.92,114.33,83.13,24.45,opendata.reseaux-energies.fr
+2022-03-24 00:00:00,France,France,FR,81.97,114.21,83.22,24.31,opendata.reseaux-energies.fr
+2022-03-25 00:00:00,France,France,FR,74.92,105.59,84.50,26.31,opendata.reseaux-energies.fr
+2022-03-26 00:00:00,France,France,FR,61.62,89.80,87.89,31.39,opendata.reseaux-energies.fr
+2022-03-27 00:00:00,France,France,FR,70.34,99.99,86.41,24.08,opendata.reseaux-energies.fr
+2022-03-28 00:00:00,France,France,FR,86.98,120.43,82.19,23.00,opendata.reseaux-energies.fr
+2022-03-29 00:00:00,France,France,FR,95.28,129.89,81.09,22.40,opendata.reseaux-energies.fr
+2022-03-30 00:00:00,France,France,FR,92.22,127.10,80.92,24.37,opendata.reseaux-energies.fr
+2022-03-31 00:00:00,France,France,FR,71.73,102.20,84.89,33.17,opendata.reseaux-energies.fr
+2022-04-01 00:00:00,France,France,FR,74.75,106.44,84.79,37.07,opendata.reseaux-energies.fr
+2022-04-02 00:00:00,France,France,FR,83.80,115.83,83.53,33.55,opendata.reseaux-energies.fr
+2022-04-03 00:00:00,France,France,FR,92.57,126.61,82.33,27.91,opendata.reseaux-energies.fr
+2022-04-04 00:00:00,France,France,FR,68.22,98.70,85.08,34.94,opendata.reseaux-energies.fr
+2022-04-05 00:00:00,France,France,FR,71.56,101.98,85.04,32.25,opendata.reseaux-energies.fr
+2022-04-06 00:00:00,France,France,FR,53.98,80.79,87.67,34.47,opendata.reseaux-energies.fr
+2022-04-07 00:00:00,France,France,FR,31.76,52.91,92.67,41.43,opendata.reseaux-energies.fr
+2022-04-08 00:00:00,France,France,FR,53.93,79.99,88.38,35.48,opendata.reseaux-energies.fr
+2022-04-09 00:00:00,France,France,FR,57.06,84.93,87.56,31.56,opendata.reseaux-energies.fr
+2022-04-10 00:00:00,France,France,FR,48.48,74.58,89.76,31.48,opendata.reseaux-energies.fr
+2022-04-11 00:00:00,France,France,FR,36.37,58.94,92.05,37.09,opendata.reseaux-energies.fr
+2022-04-12 00:00:00,France,France,FR,44.28,68.52,90.08,30.72,opendata.reseaux-energies.fr
+2022-04-13 00:00:00,France,France,FR,60.74,89.21,86.56,24.89,opendata.reseaux-energies.fr
+2022-04-14 00:00:00,France,France,FR,50.65,77.12,88.39,25.38,opendata.reseaux-energies.fr
+2022-04-15 00:00:00,France,France,FR,37.90,61.01,92.01,28.26,opendata.reseaux-energies.fr
+2022-04-16 00:00:00,France,France,FR,20.25,39.54,96.19,36.21,opendata.reseaux-energies.fr
+2022-04-17 00:00:00,France,France,FR,16.57,35.90,97.01,36.20,opendata.reseaux-energies.fr
+2022-04-18 00:00:00,France,France,FR,28.36,50.64,94.02,30.18,opendata.reseaux-energies.fr
+2022-04-19 00:00:00,France,France,FR,48.67,75.82,88.28,27.22,opendata.reseaux-energies.fr
+2022-04-20 00:00:00,France,France,FR,50.59,78.36,87.77,29.13,opendata.reseaux-energies.fr
+2022-04-21 00:00:00,France,France,FR,44.35,70.59,89.31,30.79,opendata.reseaux-energies.fr
+2022-04-22 00:00:00,France,France,FR,43.93,69.81,89.68,30.69,opendata.reseaux-energies.fr
+2022-04-23 00:00:00,France,France,FR,24.09,44.03,95.55,35.36,opendata.reseaux-energies.fr
+2022-04-24 00:00:00,France,France,FR,32.17,54.36,93.76,31.51,opendata.reseaux-energies.fr
+2022-04-25 00:00:00,France,France,FR,49.61,76.96,88.40,30.07,opendata.reseaux-energies.fr
+2022-04-26 00:00:00,France,France,FR,52.68,81.58,87.00,30.36,opendata.reseaux-energies.fr
+2022-04-27 00:00:00,France,France,FR,52.72,80.95,87.50,32.56,opendata.reseaux-energies.fr
+2022-04-28 00:00:00,France,France,FR,58.73,87.91,86.89,31.87,opendata.reseaux-energies.fr
+2022-04-29 00:00:00,France,France,FR,57.97,88.29,86.41,31.20,opendata.reseaux-energies.fr
+2022-04-30 00:00:00,France,France,FR,47.15,75.63,88.25,32.07,opendata.reseaux-energies.fr
+2022-05-01 00:00:00,France,France,FR,39.32,65.43,90.36,28.88,opendata.reseaux-energies.fr
+2022-05-02 00:00:00,France,France,FR,50.46,78.97,87.96,29.88,opendata.reseaux-energies.fr
+2022-05-03 00:00:00,France,France,FR,59.81,89.05,86.73,30.12,opendata.reseaux-energies.fr
+2022-05-04 00:00:00,France,France,FR,57.07,86.48,86.37,28.22,opendata.reseaux-energies.fr
+2022-05-05 00:00:00,France,France,FR,54.48,83.73,86.75,29.28,opendata.reseaux-energies.fr
+2022-05-06 00:00:00,France,France,FR,50.34,78.81,87.60,31.14,opendata.reseaux-energies.fr
+2022-05-07 00:00:00,France,France,FR,42.99,69.74,89.70,30.34,opendata.reseaux-energies.fr
+2022-05-08 00:00:00,France,France,FR,34.98,59.69,91.68,30.68,opendata.reseaux-energies.fr
+2022-05-09 00:00:00,France,France,FR,56.69,86.81,86.98,29.61,opendata.reseaux-energies.fr
+2022-05-10 00:00:00,France,France,FR,49.47,77.59,88.04,30.51,opendata.reseaux-energies.fr
+2022-05-11 00:00:00,France,France,FR,41.32,67.46,89.74,34.20,opendata.reseaux-energies.fr
+2022-05-12 00:00:00,France,France,FR,54.60,84.12,86.74,28.63,opendata.reseaux-energies.fr
+2022-05-13 00:00:00,France,France,FR,48.97,77.14,88.18,30.37,opendata.reseaux-energies.fr
+2022-05-14 00:00:00,France,France,FR,45.56,73.56,89.45,31.02,opendata.reseaux-energies.fr
+2022-05-15 00:00:00,France,France,FR,33.68,58.54,92.06,35.32,opendata.reseaux-energies.fr
+2022-05-16 00:00:00,France,France,FR,53.06,82.52,86.99,32.27,opendata.reseaux-energies.fr
+2022-05-17 00:00:00,France,France,FR,52.11,81.15,87.37,32.80,opendata.reseaux-energies.fr
+2022-05-18 00:00:00,France,France,FR,49.41,77.47,88.39,31.87,opendata.reseaux-energies.fr
+2022-05-19 00:00:00,France,France,FR,46.22,73.51,88.72,32.10,opendata.reseaux-energies.fr
+2022-05-20 00:00:00,France,France,FR,47.35,74.89,88.32,32.70,opendata.reseaux-energies.fr
+2022-05-21 00:00:00,France,France,FR,33.21,57.81,92.40,31.51,opendata.reseaux-energies.fr
+2022-05-22 00:00:00,France,France,FR,33.64,57.63,92.36,29.74,opendata.reseaux-energies.fr
+2022-05-23 00:00:00,France,France,FR,41.87,67.37,90.17,33.39,opendata.reseaux-energies.fr
+2022-05-24 00:00:00,France,France,FR,38.88,64.59,90.39,32.46,opendata.reseaux-energies.fr
+2022-05-25 00:00:00,France,France,FR,35.57,60.26,91.29,34.79,opendata.reseaux-energies.fr
+2022-05-26 00:00:00,France,France,FR,27.87,50.67,94.11,36.58,opendata.reseaux-energies.fr
+2022-05-27 00:00:00,France,France,FR,27.99,50.81,94.31,36.23,opendata.reseaux-energies.fr
+2022-05-28 00:00:00,France,France,FR,27.96,50.77,94.23,35.63,opendata.reseaux-energies.fr
+2022-05-29 00:00:00,France,France,FR,30.92,54.26,93.71,33.57,opendata.reseaux-energies.fr
+2022-05-30 00:00:00,France,France,FR,41.25,66.99,90.28,27.70,opendata.reseaux-energies.fr
+2022-05-31 00:00:00,France,France,FR,52.38,80.45,88.23,26.40,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-06-01 00:00:00,France,France,FR,54.91,81.83,87.38,23.42,Electricity Maps Estimation
+2022-06-02 00:00:00,France,France,FR,59.15,87.30,86.65,24.38,Electricity Maps Estimation
+2022-06-03 00:00:00,France,France,FR,53.74,80.55,87.63,24.21,Electricity Maps Estimation
+2022-06-04 00:00:00,France,France,FR,49.28,74.89,88.65,24.70,Electricity Maps Estimation
+2022-06-05 00:00:00,France,France,FR,54.29,79.91,88.51,24.03,Electricity Maps Estimation
+2022-06-06 00:00:00,France,France,FR,51.46,76.47,88.90,23.89,Electricity Maps Estimation
+2022-06-07 00:00:00,France,France,FR,50.87,76.71,88.09,22.70,Electricity Maps Estimation
+2022-06-08 00:00:00,France,France,FR,50.32,75.96,88.23,23.45,Electricity Maps Estimation
+2022-06-09 00:00:00,France,France,FR,51.25,77.01,88.11,23.81,Electricity Maps Estimation
+2022-06-10 00:00:00,France,France,FR,49.94,75.08,88.69,24.24,Electricity Maps Estimation
+2022-06-11 00:00:00,France,France,FR,51.35,76.52,88.97,25.10,Electricity Maps Estimation
+2022-06-12 00:00:00,France,France,FR,51.87,77.38,88.84,25.01,Electricity Maps Estimation
+2022-06-13 00:00:00,France,France,FR,53.48,79.22,88.25,23.60,Electricity Maps Estimation
+2022-06-14 00:00:00,France,France,FR,58.20,85.18,87.46,23.65,Electricity Maps Estimation
+2022-06-15 00:00:00,France,France,FR,63.73,91.74,86.69,23.95,Electricity Maps Estimation
+2022-06-16 00:00:00,France,France,FR,67.16,95.50,86.52,24.43,Electricity Maps Estimation
+2022-06-17 00:00:00,France,France,FR,61.00,88.14,87.44,25.04,Electricity Maps Estimation
+2022-06-18 00:00:00,France,France,FR,55.57,81.71,87.75,23.65,Electricity Maps Estimation
+2022-06-19 00:00:00,France,France,FR,51.14,76.23,88.44,23.06,Electricity Maps Estimation
+2022-06-20 00:00:00,France,France,FR,56.15,83.39,87.02,23.09,Electricity Maps Estimation
+2022-06-21 00:00:00,France,France,FR,64.77,93.42,85.98,23.15,Electricity Maps Estimation
+2022-06-22 00:00:00,France,France,FR,60.64,88.76,86.20,22.47,Electricity Maps Estimation
+2022-06-23 00:00:00,France,France,FR,61.29,89.33,86.21,22.36,Electricity Maps Estimation
+2022-06-24 00:00:00,France,France,FR,56.06,82.68,87.15,22.27,Electricity Maps Estimation
+2022-06-25 00:00:00,France,France,FR,54.19,79.82,88.09,23.62,Electricity Maps Estimation
+2022-06-26 00:00:00,France,France,FR,54.42,80.05,88.15,23.95,Electricity Maps Estimation
+2022-06-27 00:00:00,France,France,FR,56.96,83.55,87.13,22.41,Electricity Maps Estimation
+2022-06-28 00:00:00,France,France,FR,62.55,90.19,86.42,23.00,Electricity Maps Estimation
+2022-06-29 00:00:00,France,France,FR,62.23,90.20,86.24,22.37,Electricity Maps Estimation
+2022-06-30 00:00:00,France,France,FR,65.96,94.62,85.72,22.18,Electricity Maps Estimation
+2022-07-01 00:00:00,France,France,FR,62.45,91.94,85.43,22.56,Electricity Maps Estimation
+2022-07-02 00:00:00,France,France,FR,61.33,89.81,86.68,24.09,Electricity Maps Estimation
+2022-07-03 00:00:00,France,France,FR,60.74,89.16,86.68,23.64,Electricity Maps Estimation
+2022-07-04 00:00:00,France,France,FR,62.84,91.85,86.21,24.40,Electricity Maps Estimation
+2022-07-05 00:00:00,France,France,FR,69.76,99.86,85.23,23.59,Electricity Maps Estimation
+2022-07-06 00:00:00,France,France,FR,65.02,93.94,86.27,24.71,Electricity Maps Estimation
+2022-07-07 00:00:00,France,France,FR,59.00,87.54,86.36,23.52,Electricity Maps Estimation
+2022-07-08 00:00:00,France,France,FR,65.12,94.35,85.69,23.26,Electricity Maps Estimation
+2022-07-09 00:00:00,France,France,FR,57.38,85.41,86.83,23.12,Electricity Maps Estimation
+2022-07-10 00:00:00,France,France,FR,59.91,88.31,86.47,22.26,Electricity Maps Estimation
+2022-07-11 00:00:00,France,France,FR,66.36,96.61,84.89,22.09,Electricity Maps Estimation
+2022-07-12 00:00:00,France,France,FR,68.21,98.85,85.10,23.44,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-13 00:00:00,France,France,FR,85.09,120.54,82.55,27.69,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-14 00:00:00,France,France,FR,63.28,93.62,85.46,28.36,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-15 00:00:00,France,France,FR,66.33,97.24,85.14,29.75,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-16 00:00:00,France,France,FR,62.37,92.95,85.86,30.26,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-17 00:00:00,France,France,FR,60.55,90.75,86.98,32.58,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-18 00:00:00,France,France,FR,79.27,113.60,83.42,33.07,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-19 00:00:00,France,France,FR,74.62,107.75,84.45,35.17,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-20 00:00:00,France,France,FR,84.25,119.92,82.97,30.75,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-21 00:00:00,France,France,FR,82.25,116.97,82.65,28.88,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-22 00:00:00,France,France,FR,82.23,117.26,82.48,28.55,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-23 00:00:00,France,France,FR,79.19,113.20,83.06,27.72,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-24 00:00:00,France,France,FR,67.75,98.82,86.24,31.22,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-25 00:00:00,France,France,FR,61.02,90.75,86.60,35.86,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-26 00:00:00,France,France,FR,78.81,112.51,83.88,30.79,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-27 00:00:00,France,France,FR,75.12,108.26,84.01,30.10,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-28 00:00:00,France,France,FR,81.06,115.93,82.73,28.43,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-29 00:00:00,France,France,FR,84.75,119.49,82.37,26.65,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-30 00:00:00,France,France,FR,71.02,101.77,85.37,27.42,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-07-31 00:00:00,France,France,FR,71.18,102.31,85.23,29.67,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-08-01 00:00:00,France,France,FR,80.13,113.37,84.10,28.42,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-08-02 00:00:00,France,France,FR,66.91,96.88,86.38,28.71,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-08-03 00:00:00,France,France,FR,68.27,98.82,86.01,27.90,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-08-04 00:00:00,France,France,FR,69.52,100.73,85.09,27.90,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-08-05 00:00:00,France,France,FR,58.28,87.29,86.83,30.46,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-08-06 00:00:00,France,France,FR,42.01,66.10,91.21,33.97,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-08-07 00:00:00,France,France,FR,37.12,60.21,92.03,33.38,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-08-08 00:00:00,France,France,FR,47.92,74.33,88.64,30.76,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-08-09 00:00:00,France,France,FR,47.87,74.04,88.69,30.36,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-08-10 00:00:00,France,France,FR,50.29,76.82,88.57,30.18,opendata.reseaux-energies.fr
+2022-08-11 00:00:00,France,France,FR,60.22,89.29,87.25,31.24,opendata.reseaux-energies.fr
+2022-08-12 00:00:00,France,France,FR,59.55,89.07,86.78,29.18,opendata.reseaux-energies.fr
+2022-08-13 00:00:00,France,France,FR,60.31,89.94,86.41,28.09,opendata.reseaux-energies.fr
+2022-08-14 00:00:00,France,France,FR,51.48,77.76,89.07,27.38,opendata.reseaux-energies.fr
+2022-08-15 00:00:00,France,France,FR,52.57,79.71,87.91,25.88,opendata.reseaux-energies.fr
+2022-08-16 00:00:00,France,France,FR,62.69,93.01,86.43,25.94,opendata.reseaux-energies.fr
+2022-08-17 00:00:00,France,France,FR,61.50,91.52,86.17,24.62,opendata.reseaux-energies.fr
+2022-08-18 00:00:00,France,France,FR,51.37,78.96,87.48,24.92,opendata.reseaux-energies.fr
+2022-08-19 00:00:00,France,France,FR,52.07,79.47,87.35,26.80,opendata.reseaux-energies.fr
+2022-08-20 00:00:00,France,France,FR,63.44,94.57,85.02,28.08,opendata.reseaux-energies.fr
+2022-08-21 00:00:00,France,France,FR,64.88,93.68,87.73,27.71,opendata.reseaux-energies.fr
+2022-08-22 00:00:00,France,France,FR,82.93,115.91,84.03,27.78,opendata.reseaux-energies.fr
+2022-08-23 00:00:00,France,France,FR,87.58,122.02,82.74,27.48,opendata.reseaux-energies.fr
+2022-08-24 00:00:00,France,France,FR,93.18,129.31,81.74,28.69,opendata.reseaux-energies.fr
+2022-08-25 00:00:00,France,France,FR,90.11,126.09,81.82,29.96,opendata.reseaux-energies.fr
+2022-08-26 00:00:00,France,France,FR,86.18,121.07,82.43,29.52,opendata.reseaux-energies.fr
+2022-08-27 00:00:00,France,France,FR,89.54,126.48,80.58,27.37,opendata.reseaux-energies.fr
+2022-08-28 00:00:00,France,France,FR,75.50,108.93,83.50,30.63,opendata.reseaux-energies.fr
+2022-08-29 00:00:00,France,France,FR,82.25,117.09,81.91,28.82,opendata.reseaux-energies.fr
+2022-08-30 00:00:00,France,France,FR,89.77,125.60,81.22,28.10,opendata.reseaux-energies.fr
+2022-08-31 00:00:00,France,France,FR,87.57,122.90,81.40,27.40,opendata.reseaux-energies.fr
+2022-09-01 00:00:00,France,France,FR,97.09,133.93,80.16,27.15,opendata.reseaux-energies.fr
+2022-09-02 00:00:00,France,France,FR,101.71,140.34,79.06,26.51,opendata.reseaux-energies.fr
+2022-09-03 00:00:00,France,France,FR,88.80,125.43,80.89,27.45,opendata.reseaux-energies.fr
+2022-09-04 00:00:00,France,France,FR,75.81,109.57,83.26,29.18,opendata.reseaux-energies.fr
+2022-09-05 00:00:00,France,France,FR,79.83,113.21,83.33,30.00,opendata.reseaux-energies.fr
+2022-09-06 00:00:00,France,France,FR,82.10,116.97,82.42,28.53,opendata.reseaux-energies.fr
+2022-09-07 00:00:00,France,France,FR,83.59,120.12,81.74,27.76,opendata.reseaux-energies.fr
+2022-09-08 00:00:00,France,France,FR,68.36,100.92,84.15,31.12,opendata.reseaux-energies.fr
+2022-09-09 00:00:00,France,France,FR,61.22,92.41,85.30,33.67,opendata.reseaux-energies.fr
+2022-09-10 00:00:00,France,France,FR,68.07,100.38,84.71,26.51,opendata.reseaux-energies.fr
+2022-09-11 00:00:00,France,France,FR,63.95,96.89,84.80,24.41,opendata.reseaux-energies.fr
+2022-09-12 00:00:00,France,France,FR,68.30,100.74,84.85,26.72,opendata.reseaux-energies.fr
+2022-09-13 00:00:00,France,France,FR,77.47,111.32,83.90,26.22,opendata.reseaux-energies.fr
+2022-09-14 00:00:00,France,France,FR,79.49,114.16,83.22,25.53,opendata.reseaux-energies.fr
+2022-09-15 00:00:00,France,France,FR,75.94,109.81,83.77,25.56,opendata.reseaux-energies.fr
+2022-09-16 00:00:00,France,France,FR,53.51,82.30,88.19,30.45,opendata.reseaux-energies.fr
+2022-09-17 00:00:00,France,France,FR,46.03,72.76,90.32,32.72,opendata.reseaux-energies.fr
+2022-09-18 00:00:00,France,France,FR,40.85,65.81,91.90,30.69,opendata.reseaux-energies.fr
+2022-09-19 00:00:00,France,France,FR,60.04,90.06,86.78,25.96,opendata.reseaux-energies.fr
+2022-09-20 00:00:00,France,France,FR,71.01,103.31,84.51,23.91,opendata.reseaux-energies.fr
+2022-09-21 00:00:00,France,France,FR,68.37,100.91,84.52,24.93,opendata.reseaux-energies.fr
+2022-09-22 00:00:00,France,France,FR,80.01,114.36,83.35,23.45,opendata.reseaux-energies.fr
+2022-09-23 00:00:00,France,France,FR,87.39,122.29,82.58,22.45,opendata.reseaux-energies.fr
+2022-09-24 00:00:00,France,France,FR,62.39,93.15,85.62,22.84,opendata.reseaux-energies.fr
+2022-09-25 00:00:00,France,France,FR,52.87,81.48,87.63,24.63,opendata.reseaux-energies.fr
+2022-09-26 00:00:00,France,France,FR,48.39,75.56,88.55,32.36,opendata.reseaux-energies.fr
+2022-09-27 00:00:00,France,France,FR,49.94,77.24,88.02,31.32,opendata.reseaux-energies.fr
+2022-09-28 00:00:00,France,France,FR,61.37,91.34,85.77,27.54,opendata.reseaux-energies.fr
+2022-09-29 00:00:00,France,France,FR,76.98,109.84,83.41,26.21,opendata.reseaux-energies.fr
+2022-09-30 00:00:00,France,France,FR,58.54,86.64,86.68,31.68,opendata.reseaux-energies.fr
+2022-10-01 00:00:00,France,France,FR,30.20,50.82,93.12,38.65,opendata.reseaux-energies.fr
+2022-10-02 00:00:00,France,France,FR,47.39,71.78,89.96,31.25,opendata.reseaux-energies.fr
+2022-10-03 00:00:00,France,France,FR,81.74,114.75,82.74,26.38,opendata.reseaux-energies.fr
+2022-10-04 00:00:00,France,France,FR,74.64,106.94,83.40,27.31,opendata.reseaux-energies.fr
+2022-10-05 00:00:00,France,France,FR,49.62,75.78,88.58,35.16,opendata.reseaux-energies.fr
+2022-10-06 00:00:00,France,France,FR,70.63,100.70,85.35,29.06,opendata.reseaux-energies.fr
+2022-10-07 00:00:00,France,France,FR,74.34,105.27,84.15,26.42,opendata.reseaux-energies.fr
+2022-10-08 00:00:00,France,France,FR,67.06,96.12,85.59,23.43,opendata.reseaux-energies.fr
+2022-10-09 00:00:00,France,France,FR,53.48,79.63,88.33,26.24,opendata.reseaux-energies.fr
+2022-10-10 00:00:00,France,France,FR,71.65,101.09,84.62,22.72,opendata.reseaux-energies.fr
+2022-10-11 00:00:00,France,France,FR,77.53,109.32,82.64,20.58,opendata.reseaux-energies.fr
+2022-10-12 00:00:00,France,France,FR,81.69,114.67,81.96,20.41,opendata.reseaux-energies.fr
+2022-10-13 00:00:00,France,France,FR,78.98,111.47,81.94,21.97,opendata.reseaux-energies.fr
+2022-10-14 00:00:00,France,France,FR,69.28,100.16,83.33,25.18,opendata.reseaux-energies.fr
+2022-10-15 00:00:00,France,France,FR,60.13,89.31,85.58,29.68,opendata.reseaux-energies.fr
+2022-10-16 00:00:00,France,France,FR,52.79,79.67,87.97,28.58,opendata.reseaux-energies.fr
+2022-10-17 00:00:00,France,France,FR,71.50,101.96,84.38,27.29,opendata.reseaux-energies.fr
+2022-10-18 00:00:00,France,France,FR,67.99,98.41,84.47,25.06,opendata.reseaux-energies.fr
+2022-10-19 00:00:00,France,France,FR,63.77,93.77,84.22,29.22,opendata.reseaux-energies.fr
+2022-10-20 00:00:00,France,France,FR,67.63,98.31,83.39,28.86,opendata.reseaux-energies.fr
+2022-10-21 00:00:00,France,France,FR,65.29,95.07,83.92,29.66,opendata.reseaux-energies.fr
+2022-10-22 00:00:00,France,France,FR,58.82,86.32,85.84,26.19,opendata.reseaux-energies.fr
+2022-10-23 00:00:00,France,France,FR,38.37,58.52,90.40,32.11,opendata.reseaux-energies.fr
+2022-10-24 00:00:00,France,France,FR,42.96,66.87,89.28,32.95,opendata.reseaux-energies.fr
+2022-10-25 00:00:00,France,France,FR,57.24,85.11,85.68,25.41,opendata.reseaux-energies.fr
+2022-10-26 00:00:00,France,France,FR,55.40,82.20,86.89,29.48,opendata.reseaux-energies.fr
+2022-10-27 00:00:00,France,France,FR,50.35,76.40,87.41,29.45,opendata.reseaux-energies.fr
+2022-10-28 00:00:00,France,France,FR,57.07,84.84,86.05,26.85,opendata.reseaux-energies.fr
+2022-10-29 00:00:00,France,France,FR,58.66,87.15,85.66,27.95,opendata.reseaux-energies.fr
+2022-10-30 00:00:00,France,France,FR,64.58,94.85,84.68,23.08,Electricity Maps Estimation; opendata.reseaux-energies.fr
+2022-10-31 00:00:00,France,France,FR,54.22,81.02,87.19,28.79,opendata.reseaux-energies.fr
+2022-11-01 00:00:00,France,France,FR,34.76,56.73,91.61,36.48,opendata.reseaux-energies.fr
+2022-11-02 00:00:00,France,France,FR,58.95,87.36,85.53,30.91,opendata.reseaux-energies.fr
+2022-11-03 00:00:00,France,France,FR,56.18,82.88,86.63,32.36,opendata.reseaux-energies.fr
+2022-11-04 00:00:00,France,France,FR,64.14,93.31,84.83,30.19,opendata.reseaux-energies.fr
+2022-11-05 00:00:00,France,France,FR,68.95,99.52,83.59,24.99,opendata.reseaux-energies.fr
+2022-11-06 00:00:00,France,France,FR,47.64,72.04,89.60,33.41,opendata.reseaux-energies.fr
+2022-11-07 00:00:00,France,France,FR,50.18,76.25,87.69,35.21,opendata.reseaux-energies.fr
+2022-11-08 00:00:00,France,France,FR,42.70,65.93,89.74,35.67,opendata.reseaux-energies.fr
+2022-11-09 00:00:00,France,France,FR,61.22,89.77,85.14,28.69,opendata.reseaux-energies.fr
+2022-11-10 00:00:00,France,France,FR,68.03,98.92,83.56,27.74,opendata.reseaux-energies.fr
+2022-11-11 00:00:00,France,France,FR,64.37,94.47,84.18,25.78,opendata.reseaux-energies.fr
+2022-11-12 00:00:00,France,France,FR,68.19,99.11,83.19,24.89,opendata.reseaux-energies.fr
+2022-11-13 00:00:00,France,France,FR,74.73,107.07,82.13,21.18,opendata.reseaux-energies.fr
+2022-11-14 00:00:00,France,France,FR,74.24,104.74,83.33,26.05,opendata.reseaux-energies.fr
+2022-11-15 00:00:00,France,France,FR,59.89,86.86,86.52,31.89,opendata.reseaux-energies.fr
+2022-11-16 00:00:00,France,France,FR,42.46,65.14,90.55,36.42,opendata.reseaux-energies.fr
+2022-11-17 00:00:00,France,France,FR,37.33,58.85,91.68,37.89,opendata.reseaux-energies.fr
+2022-11-18 00:00:00,France,France,FR,72.21,101.64,84.50,28.15,opendata.reseaux-energies.fr
+2022-11-19 00:00:00,France,France,FR,83.67,115.65,82.64,25.36,opendata.reseaux-energies.fr
+2022-11-20 00:00:00,France,France,FR,69.73,100.06,84.13,28.78,opendata.reseaux-energies.fr
+2022-11-21 00:00:00,France,France,FR,64.43,92.39,85.84,32.90,opendata.reseaux-energies.fr
+2022-11-22 00:00:00,France,France,FR,62.57,89.86,86.45,35.44,opendata.reseaux-energies.fr
+2022-11-23 00:00:00,France,France,FR,56.08,81.57,88.21,34.94,opendata.reseaux-energies.fr
+2022-11-24 00:00:00,France,France,FR,59.45,86.27,87.01,32.57,opendata.reseaux-energies.fr
+2022-11-25 00:00:00,France,France,FR,75.98,106.11,83.93,26.72,opendata.reseaux-energies.fr
+2022-11-26 00:00:00,France,France,FR,80.96,111.83,83.14,25.64,opendata.reseaux-energies.fr
+2022-11-27 00:00:00,France,France,FR,70.57,98.18,86.49,29.45,opendata.reseaux-energies.fr
+2022-11-28 00:00:00,France,France,FR,105.32,139.53,79.62,23.58,opendata.reseaux-energies.fr
+2022-11-29 00:00:00,France,France,FR,112.94,148.60,78.19,21.87,opendata.reseaux-energies.fr
+2022-11-30 00:00:00,France,France,FR,113.65,149.11,77.72,21.52,opendata.reseaux-energies.fr
+2022-12-01 00:00:00,France,France,FR,113.81,148.62,78.63,22.82,opendata.reseaux-energies.fr
+2022-12-02 00:00:00,France,France,FR,117.33,152.88,77.75,21.11,opendata.reseaux-energies.fr
+2022-12-03 00:00:00,France,France,FR,109.34,142.71,79.49,20.30,opendata.reseaux-energies.fr
+2022-12-04 00:00:00,France,France,FR,114.38,148.08,79.30,16.47,opendata.reseaux-energies.fr
+2022-12-05 00:00:00,France,France,FR,116.61,152.02,78.37,21.21,opendata.reseaux-energies.fr
+2022-12-06 00:00:00,France,France,FR,121.69,158.68,77.30,20.72,opendata.reseaux-energies.fr
+2022-12-07 00:00:00,France,France,FR,122.81,160.24,76.63,19.94,opendata.reseaux-energies.fr
+2022-12-08 00:00:00,France,France,FR,130.72,168.58,75.94,19.48,opendata.reseaux-energies.fr
+2022-12-09 00:00:00,France,France,FR,115.04,149.85,78.46,19.94,opendata.reseaux-energies.fr
+2022-12-10 00:00:00,France,France,FR,115.07,149.06,79.09,17.16,opendata.reseaux-energies.fr
+2022-12-11 00:00:00,France,France,FR,122.79,158.38,78.13,17.01,opendata.reseaux-energies.fr
+2022-12-12 00:00:00,France,France,FR,118.63,154.30,78.57,23.02,opendata.reseaux-energies.fr
+2022-12-13 00:00:00,France,France,FR,107.57,141.16,79.82,23.83,opendata.reseaux-energies.fr
+2022-12-14 00:00:00,France,France,FR,101.33,133.78,80.20,21.34,opendata.reseaux-energies.fr
+2022-12-15 00:00:00,France,France,FR,92.68,123.56,81.56,23.56,opendata.reseaux-energies.fr
+2022-12-16 00:00:00,France,France,FR,93.70,124.52,81.86,23.51,opendata.reseaux-energies.fr
+2022-12-17 00:00:00,France,France,FR,102.16,133.86,80.89,20.73,opendata.reseaux-energies.fr
+2022-12-18 00:00:00,France,France,FR,78.21,104.97,85.53,26.52,opendata.reseaux-energies.fr
+2022-12-19 00:00:00,France,France,FR,48.07,70.45,89.72,31.34,opendata.reseaux-energies.fr
+2022-12-20 00:00:00,France,France,FR,49.11,71.73,89.36,27.97,opendata.reseaux-energies.fr
+2022-12-21 00:00:00,France,France,FR,46.71,69.07,89.69,27.22,opendata.reseaux-energies.fr
+2022-12-22 00:00:00,France,France,FR,33.34,53.21,92.02,31.57,opendata.reseaux-energies.fr
+2022-12-23 00:00:00,France,France,FR,30.64,49.91,92.71,32.51,opendata.reseaux-energies.fr
+2022-12-24 00:00:00,France,France,FR,26.83,44.98,94.12,28.48,opendata.reseaux-energies.fr
+2022-12-25 00:00:00,France,France,FR,24.52,42.39,94.32,29.73,opendata.reseaux-energies.fr
+2022-12-26 00:00:00,France,France,FR,31.48,50.86,93.47,31.30,opendata.reseaux-energies.fr
+2022-12-27 00:00:00,France,France,FR,29.80,48.04,94.09,28.53,opendata.reseaux-energies.fr
+2022-12-28 00:00:00,France,France,FR,18.88,35.08,95.69,36.32,opendata.reseaux-energies.fr
+2022-12-29 00:00:00,France,France,FR,25.20,43.23,94.59,36.28,opendata.reseaux-energies.fr
+2022-12-30 00:00:00,France,France,FR,23.03,40.67,95.00,41.11,opendata.reseaux-energies.fr
+2022-12-31 00:00:00,France,France,FR,22.34,40.84,94.81,44.32,opendata.reseaux-energies.fr
